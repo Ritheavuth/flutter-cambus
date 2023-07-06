@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "28824604752",
+    "project_id": "flutter-cambus",
+    "storage_bucket": "flutter-cambus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28824604752:android:2c575e6531a36307b2c155",
+        "android_client_info": {
+          "package_name": "com.example.cam_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28824604752-gvodcham4gfmala771vmppo4f5lufdv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cam_bus",
+            "certificate_hash": "5d30742318802c1bd553f9fd7efbb5384649f33b"
+          }
+        },
+        {
+          "client_id": "28824604752-lk7acan731ank0tn6ekh51u6pggmjlj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsUSDwBxNZ797tdiEOGI_ovB2XrMe7F1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28824604752-lk7acan731ank0tn6ekh51u6pggmjlj9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "28824604752-bk2chbq1duoh6t5dde2afnrgeaf098i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.camBus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
